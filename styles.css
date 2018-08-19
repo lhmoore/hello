@@ -1,0 +1,15 @@
+.container {
+	height: 100vh;
+	width: 100vw;
+	background: url(Earth.jpg);
+	background-size: cover;
+}
+
+
+h1 {
+	color: white;
+	letter-spacing: 5px;
+	font-family: helvetica;
+	padding-top: 45vh;
+	text-align: center;
+}
